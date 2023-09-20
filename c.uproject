@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{DF365107-4380-B196-3959-738ADC0DED2D}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "c",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"TargetPlatforms": [
+		"Android",
+		"WindowsNoEditor"
+	]
+}
